@@ -1,0 +1,70 @@
+[2022-05-19 03:30:14,583] {processor.py:153} INFO - Started process (PID=16745) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 03:30:14,583] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 03:30:14,584] {logging_mixin.py:115} INFO - [2022-05-19 03:30:14,584] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 03:30:14,599] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 03:30:14,640] {logging_mixin.py:115} INFO - [2022-05-19 03:30:14,640] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 03:30:14,650] {logging_mixin.py:115} INFO - [2022-05-19 03:30:14,650] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 03:30:14,659] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.076 seconds
+[2022-05-19 04:24:41,644] {processor.py:153} INFO - Started process (PID=16814) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 04:24:41,645] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 04:24:41,646] {logging_mixin.py:115} INFO - [2022-05-19 04:24:41,646] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 04:24:41,666] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 04:24:41,709] {logging_mixin.py:115} INFO - [2022-05-19 04:24:41,708] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 04:24:41,719] {logging_mixin.py:115} INFO - [2022-05-19 04:24:41,719] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 04:24:41,728] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.085 seconds
+[2022-05-19 05:18:45,278] {processor.py:153} INFO - Started process (PID=16850) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 05:18:45,279] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 05:18:45,279] {logging_mixin.py:115} INFO - [2022-05-19 05:18:45,279] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 05:18:45,298] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 05:18:45,341] {logging_mixin.py:115} INFO - [2022-05-19 05:18:45,341] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 05:18:45,351] {logging_mixin.py:115} INFO - [2022-05-19 05:18:45,351] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 05:18:45,359] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.082 seconds
+[2022-05-19 06:13:00,688] {processor.py:153} INFO - Started process (PID=16891) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 06:13:00,689] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 06:13:00,690] {logging_mixin.py:115} INFO - [2022-05-19 06:13:00,690] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 06:13:00,711] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 06:13:00,752] {logging_mixin.py:115} INFO - [2022-05-19 06:13:00,752] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 06:13:00,762] {logging_mixin.py:115} INFO - [2022-05-19 06:13:00,762] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 06:13:00,773] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.085 seconds
+[2022-05-19 07:06:51,899] {processor.py:153} INFO - Started process (PID=16932) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 07:06:51,900] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 07:06:51,900] {logging_mixin.py:115} INFO - [2022-05-19 07:06:51,900] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 07:06:51,916] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 07:06:51,959] {logging_mixin.py:115} INFO - [2022-05-19 07:06:51,959] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 07:06:51,969] {logging_mixin.py:115} INFO - [2022-05-19 07:06:51,969] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 07:06:51,977] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.079 seconds
+[2022-05-19 08:01:18,403] {processor.py:153} INFO - Started process (PID=16983) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 08:01:18,404] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 08:01:18,405] {logging_mixin.py:115} INFO - [2022-05-19 08:01:18,404] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 08:01:18,425] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 08:01:18,468] {logging_mixin.py:115} INFO - [2022-05-19 08:01:18,468] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 08:01:18,478] {logging_mixin.py:115} INFO - [2022-05-19 08:01:18,478] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 08:01:18,486] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.084 seconds
+[2022-05-19 08:55:29,215] {processor.py:153} INFO - Started process (PID=17023) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 08:55:29,216] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 08:55:29,216] {logging_mixin.py:115} INFO - [2022-05-19 08:55:29,216] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 08:55:29,232] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 08:55:29,290] {logging_mixin.py:115} INFO - [2022-05-19 08:55:29,289] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 08:55:29,309] {logging_mixin.py:115} INFO - [2022-05-19 08:55:29,308] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 08:55:29,316] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.101 seconds
+[2022-05-19 09:51:11,542] {processor.py:153} INFO - Started process (PID=17066) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 09:51:11,543] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 09:51:11,544] {logging_mixin.py:115} INFO - [2022-05-19 09:51:11,543] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 09:51:11,624] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 09:51:11,833] {logging_mixin.py:115} INFO - [2022-05-19 09:51:11,833] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 09:51:11,882] {logging_mixin.py:115} INFO - [2022-05-19 09:51:11,882] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 09:51:11,913] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.374 seconds
+[2022-05-19 13:58:34,467] {processor.py:153} INFO - Started process (PID=17164) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 13:58:34,467] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 13:58:34,467] {logging_mixin.py:115} INFO - [2022-05-19 13:58:34,467] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 13:58:34,485] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 13:58:34,549] {logging_mixin.py:115} INFO - [2022-05-19 13:58:34,549] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 13:58:34,559] {logging_mixin.py:115} INFO - [2022-05-19 13:58:34,559] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 13:58:34,567] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.101 seconds
+[2022-05-19 13:59:25,810] {processor.py:153} INFO - Started process (PID=17291) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 13:59:25,828] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-05-19 13:59:25,829] {logging_mixin.py:115} INFO - [2022-05-19 13:59:25,829] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 13:59:25,874] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-05-19 13:59:25,928] {logging_mixin.py:115} INFO - [2022-05-19 13:59:25,928] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-19 13:59:25,940] {logging_mixin.py:115} INFO - [2022-05-19 13:59:25,940] {dag.py:2915} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-05-19 13:59:25,948] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.139 seconds
