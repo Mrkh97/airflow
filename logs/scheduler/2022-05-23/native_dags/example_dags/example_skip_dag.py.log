@@ -481,3 +481,10 @@
 [2022-05-23 18:14:28,101] {logging_mixin.py:115} INFO - [2022-05-23 18:14:28,101] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:14:28,110] {logging_mixin.py:115} INFO - [2022-05-23 18:14:28,110] {dag.py:2915} INFO - Setting next_dagrun for example_skip_dag to 2022-05-22T15:14:28.110161+00:00, run_after=2022-05-23T15:14:28.110161+00:00
 [2022-05-23 18:14:28,118] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2022-05-23 18:15:29,066] {processor.py:153} INFO - Started process (PID=41218) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-23 18:15:29,066] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-05-23 18:15:29,067] {logging_mixin.py:115} INFO - [2022-05-23 18:15:29,067] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-23 18:15:29,076] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-05-23 18:15:29,120] {logging_mixin.py:115} INFO - [2022-05-23 18:15:29,120] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:29,130] {logging_mixin.py:115} INFO - [2022-05-23 18:15:29,130] {dag.py:2915} INFO - Setting next_dagrun for example_skip_dag to 2022-05-22T15:15:29.130498+00:00, run_after=2022-05-23T15:15:29.130498+00:00
+[2022-05-23 18:15:29,138] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds

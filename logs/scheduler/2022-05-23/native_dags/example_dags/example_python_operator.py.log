@@ -474,3 +474,10 @@
 [2022-05-23 18:14:30,619] {logging_mixin.py:115} INFO - [2022-05-23 18:14:30,619] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:14:30,631] {logging_mixin.py:115} INFO - [2022-05-23 18:14:30,631] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
 [2022-05-23 18:14:30,639] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.094 seconds
+[2022-05-23 18:15:34,941] {processor.py:153} INFO - Started process (PID=41240) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-05-23 18:15:34,941] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-05-23 18:15:34,942] {logging_mixin.py:115} INFO - [2022-05-23 18:15:34,942] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-05-23 18:15:34,971] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py
+[2022-05-23 18:15:35,020] {logging_mixin.py:115} INFO - [2022-05-23 18:15:35,020] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:35,030] {logging_mixin.py:115} INFO - [2022-05-23 18:15:35,030] {dag.py:2915} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-05-23 18:15:35,037] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py took 0.096 seconds

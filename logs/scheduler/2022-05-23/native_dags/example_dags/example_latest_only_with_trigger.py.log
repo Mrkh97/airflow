@@ -460,3 +460,10 @@
 [2022-05-23 18:14:37,865] {logging_mixin.py:115} INFO - [2022-05-23 18:14:37,865] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:14:37,882] {logging_mixin.py:115} INFO - [2022-05-23 18:14:37,882] {dag.py:2915} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-05-23T11:14:37.882015+00:00, run_after=2022-05-23T15:14:37.882015+00:00
 [2022-05-23 18:14:37,895] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.121 seconds
+[2022-05-23 18:15:42,140] {processor.py:153} INFO - Started process (PID=41251) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-05-23 18:15:42,140] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-05-23 18:15:42,140] {logging_mixin.py:115} INFO - [2022-05-23 18:15:42,140] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-05-23 18:15:42,153] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-05-23 18:15:42,209] {logging_mixin.py:115} INFO - [2022-05-23 18:15:42,209] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:42,224] {logging_mixin.py:115} INFO - [2022-05-23 18:15:42,224] {dag.py:2915} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-05-23T11:15:42.223684+00:00, run_after=2022-05-23T15:15:42.223684+00:00
+[2022-05-23 18:15:42,235] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.096 seconds

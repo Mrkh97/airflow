@@ -481,3 +481,10 @@
 [2022-05-23 18:14:19,933] {logging_mixin.py:115} INFO - [2022-05-23 18:14:19,933] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:14:19,945] {logging_mixin.py:115} INFO - [2022-05-23 18:14:19,945] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
 [2022-05-23 18:14:19,952] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.100 seconds
+[2022-05-23 18:15:19,834] {processor.py:153} INFO - Started process (PID=41196) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-05-23 18:15:19,834] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-05-23 18:15:19,834] {logging_mixin.py:115} INFO - [2022-05-23 18:15:19,834] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-05-23 18:15:19,842] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-05-23 18:15:19,889] {logging_mixin.py:115} INFO - [2022-05-23 18:15:19,889] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:19,899] {logging_mixin.py:115} INFO - [2022-05-23 18:15:19,899] {dag.py:2915} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2022-05-23 18:15:19,908] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.075 seconds

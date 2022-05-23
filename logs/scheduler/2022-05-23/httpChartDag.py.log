@@ -922,3 +922,10 @@
 [2022-05-23 18:15:01,320] {logging_mixin.py:115} INFO - [2022-05-23 18:15:01,320] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:15:01,332] {logging_mixin.py:115} INFO - [2022-05-23 18:15:01,332] {dag.py:2915} INFO - Setting next_dagrun for httpChartDag to 2022-05-23T00:00:00+00:00, run_after=2022-05-24T00:00:00+00:00
 [2022-05-23 18:15:01,340] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/airflow/dags/httpChartDag.py took 0.348 seconds
+[2022-05-23 18:15:32,730] {processor.py:153} INFO - Started process (PID=41235) to work on /Users/mohammadrezakhorasanchian/airflow/dags/httpChartDag.py
+[2022-05-23 18:15:32,730] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/airflow/dags/httpChartDag.py for tasks to queue
+[2022-05-23 18:15:32,730] {logging_mixin.py:115} INFO - [2022-05-23 18:15:32,730] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/airflow/dags/httpChartDag.py
+[2022-05-23 18:15:33,078] {processor.py:651} INFO - DAG(s) dict_keys(['httpChartDag']) retrieved from /Users/mohammadrezakhorasanchian/airflow/dags/httpChartDag.py
+[2022-05-23 18:15:33,133] {logging_mixin.py:115} INFO - [2022-05-23 18:15:33,133] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:33,148] {logging_mixin.py:115} INFO - [2022-05-23 18:15:33,147] {dag.py:2915} INFO - Setting next_dagrun for httpChartDag to 2022-05-23T00:00:00+00:00, run_after=2022-05-24T00:00:00+00:00
+[2022-05-23 18:15:33,160] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/airflow/dags/httpChartDag.py took 0.430 seconds

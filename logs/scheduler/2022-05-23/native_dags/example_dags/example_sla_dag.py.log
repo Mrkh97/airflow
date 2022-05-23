@@ -481,3 +481,10 @@
 [2022-05-23 18:14:27,144] {logging_mixin.py:115} INFO - [2022-05-23 18:14:27,144] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:14:27,156] {logging_mixin.py:115} INFO - [2022-05-23 18:14:27,156] {dag.py:2915} INFO - Setting next_dagrun for example_sla_dag to 2022-05-23T15:12:00+00:00, run_after=2022-05-23T15:14:00+00:00
 [2022-05-23 18:14:27,163] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds
+[2022-05-23 18:15:27,339] {processor.py:153} INFO - Started process (PID=41217) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-05-23 18:15:27,340] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-05-23 18:15:27,340] {logging_mixin.py:115} INFO - [2022-05-23 18:15:27,340] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-05-23 18:15:27,363] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-05-23 18:15:27,406] {logging_mixin.py:115} INFO - [2022-05-23 18:15:27,406] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:27,419] {logging_mixin.py:115} INFO - [2022-05-23 18:15:27,419] {dag.py:2915} INFO - Setting next_dagrun for example_sla_dag to 2022-05-23T15:12:00+00:00, run_after=2022-05-23T15:14:00+00:00
+[2022-05-23 18:15:27,427] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.088 seconds

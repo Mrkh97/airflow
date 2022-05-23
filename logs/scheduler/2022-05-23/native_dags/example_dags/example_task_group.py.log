@@ -481,3 +481,10 @@
 [2022-05-23 18:14:23,728] {logging_mixin.py:115} INFO - [2022-05-23 18:14:23,728] {dag.py:2371} INFO - Sync 1 DAGs
 [2022-05-23 18:14:23,737] {logging_mixin.py:115} INFO - [2022-05-23 18:14:23,737] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2022-05-22T15:14:23.737573+00:00, run_after=2022-05-23T15:14:23.737573+00:00
 [2022-05-23 18:14:23,744] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.072 seconds
+[2022-05-23 18:15:23,831] {processor.py:153} INFO - Started process (PID=41208) to work on /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2022-05-23 18:15:23,831] {processor.py:641} INFO - Processing file /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-05-23 18:15:23,832] {logging_mixin.py:115} INFO - [2022-05-23 18:15:23,831] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2022-05-23 18:15:23,844] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2022-05-23 18:15:23,899] {logging_mixin.py:115} INFO - [2022-05-23 18:15:23,899] {dag.py:2371} INFO - Sync 1 DAGs
+[2022-05-23 18:15:23,911] {logging_mixin.py:115} INFO - [2022-05-23 18:15:23,911] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2022-05-22T15:15:23.911361+00:00, run_after=2022-05-23T15:15:23.911361+00:00
+[2022-05-23 18:15:23,920] {processor.py:161} INFO - Processing /Users/mohammadrezakhorasanchian/.pyenv/versions/3.10.4/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.089 seconds
