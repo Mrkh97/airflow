@@ -1,4 +1,5 @@
 import firebase_admin
+import hashlib
 from firebase_admin import credentials
 from firebase_admin import firestore
 
@@ -10,6 +11,7 @@ db = firestore.client()
 
 from random import randint
 from datetime import datetime
+
 
 from airflow import DAG
 from airflow.operators.python import PythonOperator, BranchPythonOperator
@@ -131,7 +133,7 @@ def _parseHttp():
             u'size':sum(Gets[x]),
             u'type':'GET'
         }
-        db.collection(u'GetRequests').document(str(hash(str(x)))).set(data)
+        db.collection(u'GetRequests').document(hashlib.sha256(str(x).encode('utf-8')).hexdigest()).set(data)
 
     for x in Posts:
         data = {
@@ -139,7 +141,7 @@ def _parseHttp():
             u'size':sum(Posts[x]),
             u'type':'POST'
         }
-        db.collection(u'PostRequests').document(str(hash(str(x)))).set(data)
+        db.collection(u'PostRequests').document(hashlib.sha256(str(x).encode('utf-8')).hexdigest()).set(data)
 
 
     f.close()
